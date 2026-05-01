@@ -15,7 +15,7 @@ The dataset contains customer information such as:
 - Monthly charges  
 - Total charges  
 - Churn status (Yes/No)
-- 
+  
 ## Approach
 
 1. Loaded and explored the dataset  
